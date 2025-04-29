@@ -1,0 +1,8 @@
+[project]
+name = "matrjoschka-zipper"
+version = "0.1.0"
+description = "A Python utility that recursively zips files in a folder structure, creating a hierarchical zip structure similar to Russian nesting dolls (Matryoshka)"
+requires-python = ">=3.12"
+dependencies = [
+    "tqdm",
+]
