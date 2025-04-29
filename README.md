@@ -24,7 +24,7 @@ This creates a nested structure where each file and directory is individually zi
 ### Install from source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/matrjoschka-zipper.git
+git clone https://github.com/DerVogel101/matrjoschka-zipper.git
 cd matrjoschka-zipper
 
 # Install the package using pip
